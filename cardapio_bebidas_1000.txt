@@ -1,0 +1,17 @@
+[
+	{
+		"bebida":"COCA-COLA",
+		"valor":"6,00",
+		"disponivel":"sim"
+	},
+	{
+		"bebida":"GUARANÁ",
+		"valor":"6,00",
+		"disponivel":"sim"
+	},
+	{
+		"bebida":"PEPSI",
+		"valor":"6,00",
+		"disponivel":"sim"
+	}
+]

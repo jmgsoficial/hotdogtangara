@@ -1,0 +1,44 @@
+[
+	{
+		"lanche":"TRADICIONAL",
+		"descricao":"O MAIS BARATO, MAS NÃO DECEPCIONA NO SABOR",
+		"valor":"2,50",
+		"ingredientres":"CARNE MOÍDA, SALSICHA, MILHO E ERVILHA, BATATA PALHA E VINAGRETE",
+		"disponivel":"sim"
+	},
+	{
+		"lanche":"FRANGO",
+		"descricao":"SINTA O SABOR DO FRANGO COM CALABRESA",
+		"valor":"3,00",
+		"ingredientres":"CARNE MOÍDA, SALSICHA. VINAGRETE, MILHO E ERVILHA, BATATA PALHA, FRANGO DESFIADO E CATUPIRY. ",
+		"disponivel":"sim"
+	},
+	{
+		"lanche":"BACON",
+		"descricao":"UMA COMBINAÇÃO IRRESISTIVÉL DE BACON COM CHEDDAR",
+		"valor":"3,00",
+		"ingredientres":"CARNE MOÍDA, SALSICHA, MILHO E ERVILHA, BATATA PALHA, VINAGRETE, BACON E CHEDDAR",
+		"disponivel":"sim"
+	},
+	{
+		"lanche":"MISTO",
+		"descricao":"ESSA MISTURA DE SABORES VAI TE SURPREENDER",
+		"valor":"4,00",
+		"ingredientres":"CARNE MOÍDA, SALSICHA, MILHO E ERVILHA, BATATA PALHA, VINAGRETE, FRANGO DESFIADO, BACON, CATUPIRY E CHEDDAR",
+		"disponivel":"sim"
+	},
+	{
+		"lanche":"CALABRESA",
+		"descricao":"ESSE VOCÊ NÃO VAI SE ARREPENDER.",
+		"valor":"4,00",
+		"ingredientres":"CARNE MOÍDA, SALSICHA, MILHO E ERVILHA, BATATA PALHA, VINAGRETE E CALABRESA",
+		"disponivel":"sim"
+	},
+	{
+		"lanche":"NORDESTINO",
+		"descricao":"O SABOR DA NOSSA TERRA, EXPERIMETE AGORA MESMO",
+		"valor":"4,00",
+		"ingredientres":"CARNE MOÍDA, SALSICHA, MILHO E ERVILHA, BATATA PALHA, VINAGRETE, OVO DE CODORNA E CHEDDAR",
+		"disponivel":"sim"
+	},
+]

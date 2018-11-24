@@ -1,0 +1,27 @@
+[
+	{
+		"suco":"GOIABA",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"suco":"CAJA",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"suco":"MANGA",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"suco":"CAJU",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"suco":"ACEROLA",
+		"valor":"2,00",
+		"disponivel":"sim"
+	}
+]

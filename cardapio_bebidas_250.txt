@@ -1,0 +1,32 @@
+[
+	{
+		"bebida":"COCA-COLA",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"bebida":"GUARANÁ",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"bebida":"FANTA LARANJA",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"bebida":"FANTA UVA",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"bebida":"PEPSI",
+		"valor":"2,00",
+		"disponivel":"sim"
+	},
+	{
+		"bebida":"SPRITE",
+		"valor":"2,00",
+		"disponivel":"sim"
+	}
+]
